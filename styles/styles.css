@@ -1,0 +1,18 @@
+.quote {
+    color: #404040;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+    padding: 20px 30px;
+
+    border: 1px solid #bbb;
+    border-radius: 50px 0;
+}
+
+.quote-author {
+    font-size: 16px;
+    font-weight: normal;
+    text-align: right;
+    display: block;
+}
